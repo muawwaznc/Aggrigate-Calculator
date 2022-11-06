@@ -9,12 +9,13 @@
 body{
   margin-top: 68px;
   padding: 0;
-  background: linear-gradient(120deg,#2980b9, #8e44ad);
+  background: url('./Resources/background.jpg');
+  background-size: cover;
 }
 .center{
   margin: auto;
   width: 600px;
-  background: white;
+  background: rgba(255, 255, 255, 0.97);
   border-radius: 10px;
   box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
 }
