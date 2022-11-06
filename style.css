@@ -150,7 +150,7 @@ form .txt_field{
 }
 @media screen and (max-width: 320px) {
     body{
-        margin: 10px;
+        background-color: white;
     }
     .center h1{
         font-size: 13px;
