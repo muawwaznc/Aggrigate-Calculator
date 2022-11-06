@@ -148,7 +148,7 @@ form .txt_field{
         font-size: 15px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 365px) {
     body{
         background-color: white;
     }
